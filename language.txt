@@ -1,0 +1,8 @@
+7
+S->AB
+A->XA
+A->a
+B->YB
+B->b
+X->a
+Y->b
